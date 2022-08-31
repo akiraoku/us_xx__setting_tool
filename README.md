@@ -26,7 +26,7 @@ We are not responsible for any problems or troubles other than those mentioned a
 ```
 
 ## Installation
-- Download a compiled binary for Windows [releases](https://github.com/akiraoku/us_xx__setting_tool/releases/download/v/us_xx__setting_tool.exee) page.
+- Download a compiled binary for Windows [releases](https://github.com/akiraoku/us_xx__setting_tool/releases/download/v/us_xx__setting_tool.exe) page.
 - Download a hash [releases](https://github.com/akiraoku/us_xx__setting_tool/releases/download/v/checksum.md5) page.
 
 ## Support Machines
