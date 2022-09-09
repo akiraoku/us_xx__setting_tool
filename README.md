@@ -57,7 +57,12 @@ We are not responsible for any problems or troubles other than those mentioned a
 
 ## History
 
-Version 1.0.0.0 
+
+| Date         | Version          | Note                    |
+|:------------:|:----------------:|:-----------------------:|
+| Sep-01-2022  | 1.0.0.0          |                         |
+| Sep-09-2022  | 1.0.0.1          | Edi. File Propaties     |
+
 
 ## Credits
 copyright IMAGENICS Co.,Ltd. all rights reserved.
