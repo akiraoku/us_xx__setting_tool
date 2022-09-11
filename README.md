@@ -26,8 +26,7 @@ We are not responsible for any problems or troubles other than those mentioned a
 ```
 
 ## Installation
-- Download a compiled binary for Windows [releases](https://github.com/akiraoku/us_xx__setting_tool/releases/download/v/us_xx__setting_tool.exe) page.
-- Download a hash [releases](https://github.com/akiraoku/us_xx__setting_tool/releases/download/v/checksum.md5) page.
+- Download a compiled binary for Windows [link](https://github.com/akiraoku/us_xx__setting_tool/releases/download/v/us_xx__setting_tool.zip).
 
 ## Support Machines
 1. IMAGENICS US Series, etc. US-41, US-82, US-82IL, US-88.
